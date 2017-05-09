@@ -5,7 +5,7 @@ chest1 = ["lobster",
           5,
           "seaweed",
           6.5]
-print("Chest 1. Actual: 6.5 Calculated: {}".format(count_treasure(chest1)))
+print("Chest 1. Actual: 11.5 Calculated: {}".format(count_treasure(chest1)))
 
 # Chest 2
 chest2 = [True, False, 1, ["lobster"]]
